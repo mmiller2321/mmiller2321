@@ -3,8 +3,8 @@
 [![Years Badge](https://badges.pufler.dev/years/mmiller2321)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/mmiller2321)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/mmiller2321)](https://badges.pufler.dev)
-[![Updated Badge](https://badges.pufler.dev/updated/mmiller2321/git-badges)](https://badges.pufler.dev)
-[![Created Badge](https://badges.pufler.dev/created/mmiller2321/git-badges)](https://badges.pufler.dev)
+[![Updated Badge](https://badges.pufler.dev/updated/mmiller2321/mmiller2321)](https://badges.pufler.dev)
+[![Created Badge](https://badges.pufler.dev/created/mmiller2321/mmiller2321)](https://badges.pufler.dev)
 
 
 ### Hello, my name is Micah. 
