@@ -4,8 +4,6 @@
 [![Repos Badge](https://badges.pufler.dev/repos/mmiller2321)](https://badges.pufler.dev)
 
 [![Gists Badge](https://badges.pufler.dev/gists/mmiller2321)](https://badges.pufler.dev/gists/mmiller2321)
-[![Created Badge](https://badges.pufler.dev/created/mmiller2321/git-badges)](https://badges.pufler.dev/created/mmiller2321/git-badges)
-
 [![Created Badge](https://badges.pufler.dev/created/mmiller2321/git-badges)](https://badges.pufler.dev)
 [![Updated Badge](https://badges.pufler.dev/updated/mmiller2321/git-badges)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/mmiller2321)](https://badges.pufler.dev)
