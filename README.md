@@ -63,7 +63,7 @@ I am current student at Grand Canyon University in Phoenix, Arizona, pursuing a 
 
 ## 💼 Skills
 
-![](https://img.shields.io/badge/Code-C#-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-C-Sharp-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
 
