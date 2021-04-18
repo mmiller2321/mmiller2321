@@ -1,4 +1,3 @@
-<p align="center">
 [![Visits Badge](https://badges.pufler.dev/visits/mmiller2321/mmiller2321)](https://github.com/mmiller2321)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/micahmiller23/)
 [![Years Badge](https://badges.pufler.dev/years/mmiller2321)](https://badges.pufler.dev)
@@ -6,7 +5,7 @@
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/mmiller2321)](https://badges.pufler.dev)
 [![Updated Badge](https://badges.pufler.dev/updated/mmiller2321/git-badges)](https://badges.pufler.dev)
 [![Created Badge](https://badges.pufler.dev/created/mmiller2321/git-badges)](https://badges.pufler.dev)
-</p>
+
 
 ### Hello, my name is Micah. 
 
