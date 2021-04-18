@@ -15,9 +15,10 @@ I am current student at Grand Canyon University in Phoenix, Arizona, pursuing a 
 > - <b>Cloud Services:</b> Amazon Web Services, Heroku, Azure
 > - <b>Databases:</b> MySQL Server, Postgresql
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=mmiller2321)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mmiller2321&repo=mmiller2321)
-
 
 For more information please visit my <a href="https://www.linkedin.com/in/micahmiller23/">LinkedIn</a>.
 
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=mmiller2321)
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mmiller2321&repo=mmiller2321)
