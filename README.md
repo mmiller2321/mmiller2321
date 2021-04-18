@@ -21,4 +21,3 @@ For more information please visit my <a href="https://www.linkedin.com/in/micahm
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=mmiller2321)
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mmiller2321&repo=mmiller2321)
