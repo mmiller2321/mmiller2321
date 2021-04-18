@@ -1,6 +1,6 @@
 [![Visits Badge](https://badges.pufler.dev/visits/mmiller2321/mmiller2321)](https://github.com/mmiller2321)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/micahmiller23/)
-[![Buy Me a Coffee Badge](https://img.shields.io/badge/buymeacoffee-informational?style=flat&logo=buymeacoffee&logoColor=white&color=0D76A8)](https://www.buymeacoffee.com/mmiller2321)
+[![Buy Me a Coffee Badge](https://img.shields.io/badge/Buy-Me-A-Coffee-informational?style=flat&logo=buymeacoffee&logoColor=white&color=0D76A8)](https://www.buymeacoffee.com/mmiller2321)
 [![Years Badge](https://badges.pufler.dev/years/mmiller2321)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/mmiller2321)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/mmiller2321)](https://badges.pufler.dev)
