@@ -98,7 +98,7 @@ I am current student at Grand Canyon University in Phoenix, Arizona, pursuing a 
 ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Workbench-informational?style=flat&logo=MySQL-actions&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-MySQL Workbench-informational?style=flat&logo=MySQL-actions&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Microsoft-SQL-Server-Management-informational?style=flat&logo=Microsoft-SQL-Server-actions&logoColor=white&color=4AB197)
 
 </details>
