@@ -91,8 +91,15 @@ I am current student at Grand Canyon University in Phoenix, Arizona, pursuing a 
 ![](https://img.shields.io/badge/Tools-Bitbucket-informational?style=flat&logo=Bitbucket&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Actions-informational?style=flat&logo=github-actions&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-MySQL-Workbench-informational?style=flat&logo=MySQL-Workbench-actions&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Microsoft-SQL-Server-Management-informational?style=flat&logo=Microsoft-SQL-Server-Management-actions&logoColor=white&color=4AB197)
+
+<br>
+
+![](https://img.shields.io/badge/IDE-Visual-Studio-informational?style=flat&logo=Visual-Studio&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/IDE-Eclipse-informational?style=flat&logo=Eclipse&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/IDE-InteliJ-informational?style=flat&logo=InteliJ&logoColor=white&color=4AB197)
 
 </details>
 
