@@ -88,7 +88,7 @@ I am current student at Grand Canyon University in Phoenix, Arizona, pursuing a 
 
 ![](https://img.shields.io/badge/IDE-Visual-Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/IDE-Eclipse-informational?style=flat&logo=Eclipse&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/IDE-InteliJ-IDE-informational?style=flat&logo=InteliJ-IDE&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/IDE-InteliJ-informational?style=flat&logo=InteliJ-IDE&logoColor=white&color=4AB197)
 
 <br>
 
@@ -99,7 +99,8 @@ I am current student at Grand Canyon University in Phoenix, Arizona, pursuing a 
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-MySQLWorkbench-informational?style=flat&logo=MySQL-actions&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Microsoft-SQL-Server-Management-informational?style=flat&logo=MySQL-actions&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-MicrosoftSQLServerManagement-informational?style=flat&logo=MySQL-actions&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=PostgreSQL-actions&logoColor=white&color=4AB197)
 
 </details>
 
