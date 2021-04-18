@@ -86,7 +86,7 @@ I am current student at Grand Canyon University in Phoenix, Arizona, pursuing a 
 
 <br>
 
-![](https://img.shields.io/badge/IDE-visual-studio-informational?style=flat&logo=visual-studio-code&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/IDE-Visual-Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/IDE-Eclipse-informational?style=flat&logo=Eclipse&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/IDE-InteliJ-IDE-informational?style=flat&logo=InteliJ-IDE&logoColor=white&color=4AB197)
 
