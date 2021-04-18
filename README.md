@@ -81,7 +81,7 @@ I am current student at Grand Canyon University in Phoenix, Arizona, pursuing a 
 <br>
 
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=AWS&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=Azure&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=Microsoft-Azure&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=Heroku&logoColor=white&color=4AB197)
 
 <br>
@@ -99,7 +99,7 @@ I am current student at Grand Canyon University in Phoenix, Arizona, pursuing a 
 
 ![](https://img.shields.io/badge/IDE-Visual-Studio-informational?style=flat&logo=Visual-Studio&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/IDE-Eclipse-informational?style=flat&logo=Eclipse&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/IDE-InteliJ-informational?style=flat&logo=InteliJ&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/IDE-InteliJ-informational?style=flat&logo=InteliJ-IDE&logoColor=white&color=4AB197)
 
 </details>
 
