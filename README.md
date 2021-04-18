@@ -80,7 +80,7 @@ I am current student at Grand Canyon University in Phoenix, Arizona, pursuing a 
 
 <br>
 
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=AWS&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Cloud-Amazon-Web-informational?style=flat&logo=Amazon-Web&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=Microsoft-Azure&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=Heroku&logoColor=white&color=4AB197)
 
