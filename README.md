@@ -69,7 +69,7 @@ I am current student at Grand Canyon University in Phoenix, Arizona, pursuing a 
 ![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=Laravel&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=Html&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML&logoColor=white&color=4AB197)
 
 <details>
 <summary>More Skills</summary>
@@ -80,7 +80,7 @@ I am current student at Grand Canyon University in Phoenix, Arizona, pursuing a 
 
 <br>
 
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon Web Services&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=AWS&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=Azure&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=Heroku&logoColor=white&color=4AB197)
 
