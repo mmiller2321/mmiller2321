@@ -8,12 +8,16 @@ I am current student at Grand Canyon University in Phoenix, Arizona, pursuing a 
 
 > - <b>Languages:</b> C#, C, C++, PHP, SQL, HTML, CSS, Java, and JavaScript
 > - <b>Software Development Tools:</b> Visual Studio, Eclipse, IntelliJ, Android Studio, Visual Studio Code, Postman, Swagger, MySQL Workbench, phpMyAdmin, Docker Desktop, GitHub
-> - <b>Software Design Tools:</b> Justinmind, Bootstrap, Microsoft SQL Server Management, Draw.io, 
+> - <b>Software Design Tools:</b> Justinmind, Bootstrap, Microsoft SQL Server Management, Draw.io, Jira,
 > - <b>Web Frameworks:</b> Enterprise Java (JSF, EJB’s, JDBC, JAX-RS), Laravel, ASP.NET Core
 > - <b>Design Patterns:</b> N-Layer Architecture, Model-View-Controller (MVC), Data Access Object (DAO), Façade, Data Transfer Object (DTO)
 > - <b>Application Servers:</b> Apache Tomcat
 > - <b>Cloud Services:</b> Amazon Web Services, Heroku, Azure
 > - <b>Databases:</b> MySQL Server, Postgresql
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=yourGithubUsername)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=YourRepositoryName)
+
 
 For more information please visit my <a href="https://www.linkedin.com/in/micahmiller23/">LinkedIn</a>.
 
