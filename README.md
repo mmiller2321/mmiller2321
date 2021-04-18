@@ -5,7 +5,7 @@
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/mmiller2321)](https://badges.pufler.dev)
 [![Updated Badge](https://badges.pufler.dev/updated/mmiller2321/mmiller2321)](https://badges.pufler.dev)
 [![Created Badge](https://badges.pufler.dev/created/mmiller2321/mmiller2321)](https://badges.pufler.dev)
-[![Buy Me a Coffee Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.buymeacoffee.com/mmiller2321)
+[![Buy Me a Coffee Badge](https://img.shields.io/badge/buymeacoffee-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.buymeacoffee.com/mmiller2321)
 
 ### Hello, my name is Micah. 
 
