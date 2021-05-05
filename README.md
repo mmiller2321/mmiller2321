@@ -9,6 +9,10 @@
 [![Linktree Badge](https://img.shields.io/badge/Linktree-Profile-informational?style=flat&logo=Linktree&logoColor=white&color=0D76A8)](https://linktr.ee/mmiller2321)
 [![Buy Me a Coffee Badge](https://img.shields.io/badge/buymeacoffee-Profile-informational?style=flat&logo=Buy-Me-A-Coffee&logoColor=white&color=0D76A8)](https://www.buymeacoffee.com/mmiller2321)
 
+<a href="https://dev.to/puf17640">
+    <img src="https://svgur.com/i/TKs.svg" width="24px"/>
+  </a>
+
 ### Hello, my name is Micah. 
 
 <hr/>
