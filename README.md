@@ -8,13 +8,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/micahmiller23/)
 [![Linktree Badge](https://img.shields.io/badge/Linktree-Profile-informational?style=flat&logo=Linktree&logoColor=white&color=0D76A8)](https://linktr.ee/mmiller2321)
 [![Buy Me a Coffee Badge](https://img.shields.io/badge/buymeacoffee-Profile-informational?style=flat&logo=Buy-Me-A-Coffee&logoColor=white&color=0D76A8)](https://www.buymeacoffee.com/mmiller2321)
-[![DEV](https://svgur.com/i/TKs.svg)](https://dev.to/puf17640)
-
-
-
-<a href="https://dev.to/puf17640">
-    <img src="https://svgur.com/i/TKs.svg" width="24px"/>
-  </a>
+[![DEV](https://img.shields.io/badge/dev.to-DEV Profile-informational?style=flat&logo=Linktree&logoColor=white&color=0D76A8)](https://dev.to/mmiller2321)
 
 ### Hello, my name is Micah. 
 
