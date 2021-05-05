@@ -15,7 +15,7 @@
 
 I am a determined, analytical, and creative student that has developed strong leadership, communication, and teamwork skills through various professional and volunteer experiences. I am passionate about people, with a desire to use my abilities and future career to improve the lives of others.
 
-I am current student at Grand Canyon University in Phoenix, Arizona, pursuing a Bachelor of Science in Computer Programming, scheduled to graduate in April 2022. Through the courses I have taken at Grand Canyon University thus far, I have gained knowledge in the following areas -
+I am a current student at Grand Canyon University in Phoenix, Arizona, pursuing a Bachelor of Science in Computer Programming, scheduled to graduate in April 2022. Through the courses I have taken at Grand Canyon University thus far, I have gained knowledge in the following areas -
 
 > - <b>Languages:</b> C#, C, C++, PHP, SQL, HTML, CSS, Java, and JavaScript
 > - <b>Software Development Tools:</b> Visual Studio, Eclipse, IntelliJ, Android Studio, Visual Studio Code, Postman, Swagger, MySQL Workbench, phpMyAdmin, Docker Desktop, GitHub
