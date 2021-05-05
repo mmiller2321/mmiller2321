@@ -10,6 +10,9 @@
 [![Buy Me a Coffee Badge](https://img.shields.io/badge/buymeacoffee-Profile-informational?style=flat&logo=Buy-Me-A-Coffee&logoColor=white&color=0D76A8)](https://www.buymeacoffee.com/mmiller2321)
 [![DEV](https://img.shields.io/badge/Dev_Community-Profile-informational?style=flat&logo=Linktree&logoColor=white&color=0D76A8)](https://dev.to/mmiller2321)
 
+[![Micah Miller's DEV Community Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/mmiller2321)
+
+
 ### Hello, my name is Micah. 
 
 <hr/>
