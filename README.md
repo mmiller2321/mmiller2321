@@ -23,7 +23,7 @@ I am a current student at Grand Canyon University in Phoenix, Arizona, pursuing 
 > - <b>Software Design Tools:</b> Justinmind, Bootstrap, Microsoft SQL Server Management, Draw.io, Jira,
 > - <b>Web Frameworks:</b> Enterprise Java (JSF, EJB’s, JDBC, JAX-RS), Laravel, ASP.NET Core
 > - <b>Design Patterns:</b> N-Layer Architecture, Model-View-Controller (MVC), Data Access Object (DAO), Façade, Data Transfer Object (DTO)
-> - <b>Application Servers:</b> Apache Tomcat
+> - <b>Application Servers:</b> Apache, Tomcat
 > - <b>Cloud Services:</b> Amazon Web Services, Heroku, and Azure
 > - <b>Databases:</b> MySQL Server, Postgresql
 
