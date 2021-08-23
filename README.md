@@ -6,7 +6,7 @@
 [![Updated Badge](https://badges.pufler.dev/updated/mmiller2321/mmiller2321)](https://badges.pufler.dev)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/micahmiller23/)
-[![Linktree Badge](https://img.shields.io/badge/Linktree-Profile-informational?style=flat&logo=Linktree&logoColor=white&color=0D76A8)](https://linktr.ee/mmiller2321)
+[![Linktree Badge](https://img.shields.io/badge/Linktree-Profile-informational?style=flat&logo=Linktree&logoColor=white&color=0D76A8)](https://linktr.ee/micah_miller)
 [![DEV](https://img.shields.io/badge/Dev-Profile-informational?style=flat&logo=dev.to&logoColor=white&color=0D76A8)](https://dev.to/mmiller2321)
 [![Buy Me a Coffee Badge](https://img.shields.io/badge/buymeacoffee-Support-informational?style=flat&logo=Buy-Me-A-Coffee&logoColor=white&color=0D76A8)](https://www.buymeacoffee.com/mmiller2321)
 
