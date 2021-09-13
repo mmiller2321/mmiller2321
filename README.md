@@ -15,7 +15,7 @@
 -->
 ### Hello, my name is Micah. 
 
-
+Short description will be added in the near future.
 
 ## 📌 Pinned Repositories
 
