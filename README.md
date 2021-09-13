@@ -15,22 +15,7 @@
 -->
 ### Hello, my name is Micah. 
 
-<hr/>
 
-I am a determined, analytical, and creative student that has developed strong leadership, communication, and teamwork skills through various professional and volunteer experiences. I am passionate about people, with a desire to use my abilities and future career to improve the lives of others.
-
-I am a current student at Grand Canyon University in Phoenix, Arizona, pursuing a Bachelor of Science in Software Development, scheduled to graduate in April 2022. Through the courses I have taken at Grand Canyon University thus far, I have gained knowledge in the following areas -
-
-> - <b>Languages:</b> HTML, CSS, C, C#, Java, PHP, and SQL
-> - <b>Software Development Tools:</b> Visual Studio, Eclipse, IntelliJ, Android Studio, Visual Studio Code, Postman, Swagger, MySQL Workbench, phpMyAdmin, Docker Desktop, GitHub
-> - <b>Software Design Tools:</b> Justinmind, Bootstrap, Microsoft SQL Server Management, Draw.io, Jira,
-> - <b>Web Frameworks:</b> Enterprise Java (JSF, EJB’s, JDBC, JAX-RS), Laravel, ASP.NET Core
-> - <b>Design Patterns:</b> N-Layer Architecture, Model-View-Controller (MVC), Data Access Object (DAO), Façade, Data Transfer Object (DTO)
-> - <b>Application Servers:</b> Apache, Tomcat
-> - <b>Cloud Services:</b> Amazon Web Services, Heroku, and Azure
-> - <b>Databases:</b> MySQL Server, Postgresql
-
-<br>
 
 ## 📌 Pinned Repositories
 
