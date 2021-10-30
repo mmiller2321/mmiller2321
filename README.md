@@ -67,7 +67,7 @@ Short description will be added shortly.
 <br>
 
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=#7952b3&color=4AB197)
+![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=7952b3&color=4AB197)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=F7DF1E&color=4AB197)
   
 <br>
