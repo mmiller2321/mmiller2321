@@ -55,7 +55,7 @@ Short description will be added shortly.
 ## 💼 Skills
 
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=.net&logoColor=#ff0000&color=4AB197)
+![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=.net&logoColor=512BD4&color=4AB197)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=Laravel&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
