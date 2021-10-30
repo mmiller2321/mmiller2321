@@ -18,7 +18,7 @@
 Short description will be added shortly.
 
 ## 📌 Pinned Repositories
-
+<!-- Simple Icons for various Software technologies:  https://simpleicons.org/ -->
 <br>
 <!--
 <a href="https://github.com/mmiller2321/demo-cloud-app">
