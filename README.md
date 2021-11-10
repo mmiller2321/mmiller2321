@@ -1,9 +1,11 @@
 [![Visits Badge](https://badges.pufler.dev/visits/mmiller2321/mmiller2321)](https://github.com/mmiller2321)
-[![Years Badge](https://badges.pufler.dev/years/mmiller2321)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/mmiller2321)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/mmiller2321)](https://badges.pufler.dev)
-[![Created Badge](https://badges.pufler.dev/created/mmiller2321/mmiller2321)](https://badges.pufler.dev)
-[![Updated Badge](https://badges.pufler.dev/updated/mmiller2321/mmiller2321)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/mmiller2321)](https://github.com/mmiller2321)
+[![Repos Badge](https://badges.pufler.dev/repos/mmiller2321)](https://github.com/mmiller2321)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/mmiller2321)](https://github.com/mmiller2321)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/puf17640)](https://github.com/mmiller2321)
+<!-- https://github.com/mmiller2321 -->
+[![Created Badge](https://badges.pufler.dev/created/mmiller2321/mmiller2321)](https://github.com/mmiller2321)
+[![Updated Badge](https://badges.pufler.dev/updated/mmiller2321/mmiller2321)](https://github.com/mmiller2321)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/micahmiller23/)
 [![Linktree Badge](https://img.shields.io/badge/Linktree-Profile-informational?style=flat&logo=Linktree&logoColor=white&color=0D76A8)](https://linktr.ee/micah_miller)
