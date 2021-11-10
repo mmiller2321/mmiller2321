@@ -1,9 +1,8 @@
 [![Visits Badge](https://badges.pufler.dev/visits/mmiller2321/mmiller2321)](https://github.com/mmiller2321)
 [![Years Badge](https://badges.pufler.dev/years/mmiller2321)](https://github.com/mmiller2321)
 [![Repos Badge](https://badges.pufler.dev/repos/mmiller2321)](https://github.com/mmiller2321)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/mmiller2321)](https://github.com/mmiller2321)
+<!-- [![Commits Badge](https://badges.pufler.dev/commits/monthly/mmiller2321)](https://github.com/mmiller2321) -->
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/puf17640)](https://github.com/mmiller2321)
-<!-- https://github.com/mmiller2321 -->
 [![Created Badge](https://badges.pufler.dev/created/mmiller2321/mmiller2321)](https://github.com/mmiller2321)
 [![Updated Badge](https://badges.pufler.dev/updated/mmiller2321/mmiller2321)](https://github.com/mmiller2321)
 
