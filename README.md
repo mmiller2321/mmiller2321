@@ -16,7 +16,7 @@
 -->
 ### Hello, my name is Micah. 
 
-Short description will be added shortly.
+Short description will be added soon.
 
 ## 📌 Pinned Repositories
 <!-- Simple Icons for various Software technologies:  https://simpleicons.org/ -->
