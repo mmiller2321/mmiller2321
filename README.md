@@ -21,17 +21,17 @@ Short description will be added soon.
 ## 📌 Pinned Repositories
 <!-- Simple Icons for various Software technologies:  https://simpleicons.org/ -->
 <br>
-<!-- <a href="https://github.com/mmiller2321/PersonalPortfolio">
+<a href="https://github.com/mmiller2321/PersonalPortfolio">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mmiller2321&repo=PersonalPortfolio&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a> -->
+</a>
 <!--
 <a href="https://github.com/mmiller2321/demo-cloud-app">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mmiller2321&repo=demo-cloud-app&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 -->
-<a href="https://github.com/mmiller2321/Choices-Game">
+<!-- <a href="https://github.com/mmiller2321/Choices-Game">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mmiller2321&repo=Choices-Game&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+</a> -->
 <!--
 <br>
 <a href="https://github.com/mmiller2321/demo-milestone-cloud-app">
@@ -41,12 +41,14 @@ Short description will be added soon.
 <a href="https://github.com/mmiller2321/Demo-CloudApp-Spring-Boot">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mmiller2321&repo=Demo-CloudApp-Spring-Boot&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
+<a href="https://github.com/mmiller2321/Choices-Game">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mmiller2321&repo=Choices-Game&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
 <a href="https://github.com/mmiller2321/cli-js-game">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mmiller2321&repo=cli-js-game&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-<!-- <a href="https://github.com/mmiller2321/My-Three-React-Emoji-Hooks">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mmiller2321&repo=My-Three-React-Emoji-Hooks&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a> -->
+
+
 <br>
 <br>
 
