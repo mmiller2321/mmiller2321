@@ -46,6 +46,9 @@ Short description will be added soon.
 <a href="https://github.com/mmiller2321/cli-js-game">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mmiller2321&repo=cli-js-game&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
+<a href="https://github.com/mmiller2321/PersonalPortfolio-Public">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mmiller2321&repo=PersonalPortfolio-Public&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
 
 
 <br>
