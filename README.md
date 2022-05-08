@@ -16,7 +16,7 @@
 -->
 ### Hello, my name is Micah. 
 
-Short description will be added soon.
+I am a Full-Stack Software Engineer and Cloud Engineer with a passion for working on projects that make a differece in the everyday lives of Americans.
 
 ## 📌 Pinned Repositories
 <!-- Simple Icons for various Software technologies:  https://simpleicons.org/ -->
